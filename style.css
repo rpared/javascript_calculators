@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(48, 48, 48);
+    margin: 20px auto;
+    width: 510px;
+    border: 1px solid magenta;
+    padding: 0 2em;
+    color: lightgray;
+    border-radius: 5px;
+}
+
+h1 {
+    color: magenta;
+}
+
+button {
+    border: 1px solid magenta;
+    border-radius: 5px;
+    background-color: rgba(255, 0, 255, 0.144);
+    color: white;
+    margin: 4px;
+    padding: 4px 6px;
+    cursor: pointer;
+}
+
+button:hover{
+    background-color: rgba(255, 0, 255, 0.459);
+}
+
+footer{
+    font-size: small;
+    margin-bottom: 0;
+}
