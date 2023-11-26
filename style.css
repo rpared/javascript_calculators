@@ -71,7 +71,7 @@ input:disabled{
     width: 16em;
     text-align: right;
 }
-#change{
+#change body{
     width: 600px;
 }
 
